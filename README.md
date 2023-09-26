@@ -16,4 +16,4 @@
 [![DIO](https://img.shields.io/badge/DIO-darkred)](https://web.dio.me/users/carlosalbertosn_10?tab=skills)
 
 ### GitHub Status
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosASN23)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosASN23 )](https://streak-stats.demolab.com)
