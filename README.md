@@ -2,8 +2,8 @@
 - 👋 Olá, meu nome é Carlos Alberto sou formado em Engenharia de Produção pela Universidade Municipal de Franca e hoje estou na minha segunda graduação em Analise e Desenvolvimento de sistemas pela Facultadade de Tecnologia de Franca Dr. Thomaz Novelino
   
 ### Interesses
-- 👀 Sempre me interessei por tecnologia, aparelhos eletrônicos e jogos online. Porém, só resolvi embarcar de vez nesse mundo fascinante programação agora com 27 anos.
-- 🌱 Estou aprendendo Python, JavaScript, Git, Github e AWS no momento
+- 👀 Sempre me interessei por tecnologia, aparelhos eletrônicos e jogos online. Porém, só resolvi embarcar de vez nesse mundo fascinante da programação agora com 27 anos.
+- 🌱 Atualmente estou aprendendo Python, JavaScript, Git, Github e AWS no momento
   
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
