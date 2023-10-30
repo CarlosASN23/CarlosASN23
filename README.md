@@ -13,7 +13,7 @@
 
 ### Midias Sociais
 [![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/carlos-alberto-a444b4107/)
-[![DIO](https://img.shields.io/badge/DIO-darkred)](https://web.dio.me/users/carlosalbertosn_10?tab=skills)
+[![DIO](https://img.shields.io/badge/DIO-darkred)](https://www.dio.me/users/carlosalbertosn_10)
 
 ### GitHub Status
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosASN23)](https://streak-stats.demolab.com)
