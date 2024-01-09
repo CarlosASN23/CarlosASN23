@@ -13,7 +13,7 @@
   ![AWS](https://img.shields.io/badge/aws-000?style=for-the-badge&logo=aws)
 
 ### Midias Sociais
-[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/carlos-alberto-a444b4107/)
+[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/carlos-alberto-nascimento-a444b4107)
 [![DIO](https://img.shields.io/badge/DIO-darkred)](https://www.dio.me/users/carlosalbertosn_10)
 
 ### GitHub Status
