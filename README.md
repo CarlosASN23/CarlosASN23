@@ -1,5 +1,5 @@
 ### Breve apresentação
-- 👋 Olá, meu nome é Carlos Alberto sou formado em Engenharia de Produção pela Universidade Municipal de Franca e hoje estou na minha segunda graduação em Analise e Desenvolvimento de sistemas pela Facultadade de Tecnologia de Franca Dr. Thomaz Novelino
+- 👋 Olá, meu nome é Carlos Alberto sou formado em Engenharia de Produção pela Universidade Municipal de Franca e hoje estou na minha segunda graduação em Analise e Desenvolvimento de sistemas pela Faculdade de Tecnologia de Franca Dr. Thomaz Novelino
   
 ### Interesses
 - 👀 Sempre me interessei por tecnologia, aparelhos eletrônicos e jogos online. Porém, só resolvi embarcar de vez nesse mundo fascinante da programação agora com 27 anos.
