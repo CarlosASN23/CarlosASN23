@@ -3,7 +3,7 @@
   
 ### Interesses
 - 👀 Sempre me interessei por tecnologia, aparelhos eletrônicos e jogos online. Porém, só resolvi embarcar de vez nesse mundo fascinante da programação agora com 27 anos.
-- 🌱 Atualmente estou aprendendo Python, JavaScript, Java, Git, Github e AWS no momento
+- 🌱 Atualmente estou aprendendo Python, JavaScript, Java, Git, Github e AWS.
   
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
