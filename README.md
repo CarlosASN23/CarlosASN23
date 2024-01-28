@@ -30,4 +30,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosASN23)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosASN23)](https://github.com/anuraghazra/github-readme-stats)
