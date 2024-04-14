@@ -18,7 +18,8 @@
 ### GitHub Status
 <a href="https://github.com/CarlosASN23/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosASN23&show_icons=true&theme=dark" /> 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosASN23&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" /></a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosASN23&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake-dark.svg">
