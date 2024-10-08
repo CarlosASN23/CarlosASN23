@@ -1,28 +1,63 @@
-### Breve apresentação
-- 👋 Olá, meu nome é Carlos Alberto sou formado em Engenharia de Produção pela Universidade Municipal de Franca e hoje estou na minha segunda graduação em Analise e Desenvolvimento de sistemas pela Faculdade de Tecnologia de Franca Dr. Thomaz Novelino
+<div id="header" align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <h1 style="margin-right: 20px;">
+      <img src="https://media.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif" width="90" height="90" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Carlos+Alberto!;" />
+      <img src="https://media.giphy.com/media/JzighhW6gGhfmKE0C6/giphy.gif" width="90" height="90" />
+    </h1>
+  </div>
+
+  <div id="badges" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/carlos-alberto-nascimento-a444b4107">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/carlosalbertosn/">
+      <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://stackoverflow.com/users/22089462/carlos-alberto">
+      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    </a>
+    <a href="https://www.dio.me/users/carlosalbertosn_10">
+      <img src="https://img.shields.io/badge/DIO-darkred?style=for-the-badge&logo=dio&logoColor=white" alt="DIO Badge"/>
+    </a>
+  </div>
   
-### Interesses
-- 🌱 Atualmente estou aprendendo Python, JavaScript, Java, Git, Github e AWS.
+  <img src="https://komarev.com/ghpvc/?username=CarlosASN23&style=flat-square&color=7AB1F0" alt=""/>
+
+</div>
+
+<div id="main" align="center">
+<h1>Breve Apresentação</h1> 
+<p>👋 Olá, meu nome é Carlos Alberto sou formado em Engenharia de Produção pelo Centro Universitário Municipal de Franca e atualmente estou na minha segunda graduação em Analise e Desenvolvimento de sistemas pela Faculdade de Tecnologia de Franca Dr. Thomaz Novelino</p>
   
-  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
-  ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
-  ![AWS](https://img.shields.io/badge/aws-000?style=for-the-badge&logo=aws)
+<h1>Interesses</h1>
+<p>🌱 Atualmente estou aprendendo Java, Dart-Flutter, Amazon AWS, Oracle Cloud Infrastructure OCI.<br>
+    :books: Apaixonado por livros de suspense e terror (Fã de Stephen King aqui :smiley:)<br>
+      Animes e Mangas</p>
 
-### Midias Sociais
-[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/carlos-alberto-nascimento-a444b4107)
-[![DIO](https://img.shields.io/badge/DIO-darkred)](https://www.dio.me/users/carlosalbertosn_10)
+<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,html,css,vue,eclipse,pycharm,flask" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,python,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter" /><br>
+</div>
+</div>
 
-### GitHub Status
-<a href="https://github.com/CarlosASN23/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosASN23&show_icons=true&theme=dark" /> 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosASN23&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
-</a>
+<h2 align="center">⚡ GitHub Status ⚡</h2>
+<br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CarlosASN23&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=CarlosASN23&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CarlosASN23&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg">
-</picture>
+<br/><br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg" width="600" />
+  </picture>
+</div>
