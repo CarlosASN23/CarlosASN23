@@ -26,7 +26,7 @@
 
 </div>
 
-<div id="main" align="center">
+<div id="main" align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 <h1>Breve Apresentação</h1> 
 <p>👋 Olá, meu nome é Carlos Alberto sou formado em Engenharia de Produção pelo Centro Universitário Municipal de Franca e atualmente estou na minha segunda graduação em Analise e Desenvolvimento de sistemas pela Faculdade de Tecnologia de Franca Dr. Thomaz Novelino</p>
   
@@ -46,7 +46,7 @@
 
 <h2 align="center">⚡ GitHub Status ⚡</h2>
 <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #0d1117; padding: 20px; border-radius: 10px;">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CarlosASN23&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=CarlosASN23&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CarlosASN23&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
@@ -58,6 +58,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg" width="600" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosASN23/CarlosASN23/output/github-contribution-grid-snake.svg" width="600" style="border-radius: 10px;"/>
   </picture>
 </div>
