@@ -11,9 +11,6 @@
     <a href="https://www.linkedin.com/in/carlos-alberto-nascimento-a444b4107">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/carlosalbertosn/">
-      <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
     <a href="https://stackoverflow.com/users/22089462/carlos-alberto">
       <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
     </a>
